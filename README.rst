@@ -2,7 +2,7 @@
    :width: 590
 
 |Azure|_ |Azure-cov|_ |Azure-test|_
-
+dfsd 
 .. |Azure| image:: https://dev.azure.com/maintainers/Giotto/_apis/build/status/giotto-ai.pyflagser?branchName=master
 .. _Azure: https://dev.azure.com/maintainers/Giotto/_build?definitionId=5&_a=summary&repositoryFilter=5&branchFilter=116&requestedForFilter=ae4334d8-48e3-4663-af95-cb6c654474ea
 
